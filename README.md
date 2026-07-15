@@ -41,9 +41,9 @@ This application allows users to upload a resume (PDF) and enter a job descripti
 ---
 
 ## 📂 Projects
-- 🤖 AI Resume Screening → https://github.com/harshit-raj01/ai-resume-screening
+- 🤖 AI Resume Screening → https://github.com/rishu-raj-dev01/ai-resume-screening
 
 ---
 
 ## 📬 Contact
-- Email: harshit202508@email.com
+- Email: rr1200987@gmail.com
